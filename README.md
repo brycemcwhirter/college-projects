@@ -4,11 +4,13 @@ This repository contains a collection of programming projects I completed during
 
 ## Key Projects
 
-Food Truck Finder
+1. **Food Truck Finder**
 A React.js-based web application with a Java Spring Boot backend. This app helps users locate food trucks in their vicinity. Created for a software development class in 2021.
-UCAn.Do.It
+
+2. **UCAn.Do.It**
 A networking project developed for a data communications course. This project uses TCP and UDP protocols to send location records to a server. Implemented in Java.
-Getting Started
+
+## Getting Started
 
 Each project has its own folder, containing the source code, documentation, and any necessary setup instructions. Refer to the README files within each project directory for specific details.
 
